@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "James Bond",
+    "Age": "35",
+    "Salary": 20000
+  },
+  {
+    "Name": "Stuart Little",
+    "Age": "22",
+    "Salary": 4000
+  },
+  {
+    "Name": "Spider Man",
+    "Age": "28",
+    "Salary": 120000
+  }
+]
