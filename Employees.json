@@ -13,5 +13,50 @@
     "Name": "Spider Man",
     "Age": "28",
     "Salary": 120000
+  },
+  {
+    "Name": "Neo",
+    "Age": "45",
+    "Salary": 1120000
+  },
+  {
+    "Name": "Agent Jack",
+    "Age": "27",
+    "Salary": 44000
+  },
+  {
+    "Name": "Bat Man",
+    "Age": "41",
+    "Salary": 127000
+  },
+  {
+    "Name": "Super Man",
+    "Age": "72",
+    "Salary": 1207800
+  },
+  {
+    "Name": "Dexter",
+    "Age": "23",
+    "Salary": 34000
+  },
+  {
+    "Name": "Simpsons",
+    "Age": "76",
+    "Salary": 650000
+  },
+  {
+    "Name": "Joker",
+    "Age": "88",
+    "Salary": 34500
+  },
+  {
+    "Name": "Garfield",
+    "Age": "29",
+    "Salary": 76543
+  },
+  {
+    "Name": "Jill Joe",
+    "Age": "54",
+    "Salary": 620000
   }
 ]
